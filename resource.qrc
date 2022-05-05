@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/window_minimise.png</file>
+        <file>images/window_quit.png</file>
+        <file>images/window_smaller.png</file>
+        <file>images/window_minimise_hover.png</file>
+        <file>images/window_quit_hover.png</file>
+        <file>images/window_smaller_hover.png</file>
+        <file>images/qr_logo.png</file>
+    </qresource>
+</RCC>
